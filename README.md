@@ -1,5 +1,7 @@
 # ZX-Tetrad
 ### About
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
+
 ZX Tetrad is an old-school compilation of four original, ZX Spectrum inspired micro-games. 
 
 ## Frog
