@@ -5,9 +5,9 @@
 ZX Tetrad is an old-school compilation of four original, ZX Spectrum inspired micro-games. 
 
 ## Frog
-It's a simple, bite-sized game that is perfect for work break boredom. It is played using WASD to move.
+It's a simple, bite-sized game that is perfect for work break boredom. It is played using WASD to move (to avoid birds, and eat insects to win).
 
-I developed this micro-game for Unity Learn's **Junior Programmer Pathway** to demonstrate my ability to implement the four pillars of `Object-Oriented Programming` into a game.
+I developed this micro-game for Unity Learn's **Junior Programmer Pathway** to demonstrate my ability to implement the four pillars of `Object-Oriented Programming` into a game. Similar to my previous projects I designed the game, developed the sprites using Aseprite, and programmed the gameplay within Unity.
 
 <img src="preview-images/frog-gameplay.jpg" width="250" height="250" align="centre"> <img src="preview-gifs/frog-gameplay.gif" width="250" height="250" align="centre">
 
