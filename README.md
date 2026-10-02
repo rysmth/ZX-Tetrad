@@ -25,7 +25,7 @@ This can be played using LEFT CLICK on either the heal and or attack button, whe
 
 During my Foundation degree experience provided by The University of Cumbria, in 2025, I was influenced by the dungeon crawler Rondure Sorcerer by JasonTaylor to create my own micro-game based on the turn-based combat observed but with `pseudo-random variables`. Which was excitedly ***reviewed/play tested by 24+ peers with high praise***.
 
-I developed this alone within approximately 3 months using editor version Unity 2022.3.34f1 and I had initially presented this experience to **Critical Path’s Robert Clarke** in addition to **NextGen Skills Academy’s Charlie Blay & Chris Jeffrey**.
+I developed this alone within approximately 3 months using editor version Unity 2022.3.34f1 and I had initially presented this experience to **Critical Paths Robert Clarke** in addition to **NextGen Skills Academys Charlie Blay & Chris Jeffrey**.
 
 The sprites along with the C# scripts were once more developed by myself. Input was handled utilising the `Rewired package made by Guavaman`. Gameplay is endless as once an enemy is defeated, you are rewarded with potions but another enemy will take it’s place.
 
